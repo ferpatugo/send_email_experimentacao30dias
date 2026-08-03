@@ -1,0 +1,6 @@
+.git
+.gitignore
+*.sqlite
+*.Rproj
+.Rproj.user
+README.md
